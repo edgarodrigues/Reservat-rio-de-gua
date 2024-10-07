@@ -7,3 +7,5 @@ int bomba_B = int.Parse(Console.ReadLine());
 
 Console.Write("Informar o status da bomba C: ");
 int bomba_C = int.Parse(Console.ReadLine());
+
+if else 

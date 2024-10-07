@@ -1,0 +1,15 @@
+C:\Users\Alunos\Documents\Edgar\Reservatorio-de-agua\reservatorioAgua\bin\Debug\net8.0\reservatorioAgua.exe
+C:\Users\Alunos\Documents\Edgar\Reservatorio-de-agua\reservatorioAgua\bin\Debug\net8.0\reservatorioAgua.deps.json
+C:\Users\Alunos\Documents\Edgar\Reservatorio-de-agua\reservatorioAgua\bin\Debug\net8.0\reservatorioAgua.runtimeconfig.json
+C:\Users\Alunos\Documents\Edgar\Reservatorio-de-agua\reservatorioAgua\bin\Debug\net8.0\reservatorioAgua.dll
+C:\Users\Alunos\Documents\Edgar\Reservatorio-de-agua\reservatorioAgua\bin\Debug\net8.0\reservatorioAgua.pdb
+C:\Users\Alunos\Documents\Edgar\Reservatorio-de-agua\reservatorioAgua\obj\Debug\net8.0\reservatorioAgua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Documents\Edgar\Reservatorio-de-agua\reservatorioAgua\obj\Debug\net8.0\reservatorioAgua.AssemblyInfoInputs.cache
+C:\Users\Alunos\Documents\Edgar\Reservatorio-de-agua\reservatorioAgua\obj\Debug\net8.0\reservatorioAgua.AssemblyInfo.cs
+C:\Users\Alunos\Documents\Edgar\Reservatorio-de-agua\reservatorioAgua\obj\Debug\net8.0\reservatorioAgua.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Documents\Edgar\Reservatorio-de-agua\reservatorioAgua\obj\Debug\net8.0\reservatorioAgua.sourcelink.json
+C:\Users\Alunos\Documents\Edgar\Reservatorio-de-agua\reservatorioAgua\obj\Debug\net8.0\reservatorioAgua.dll
+C:\Users\Alunos\Documents\Edgar\Reservatorio-de-agua\reservatorioAgua\obj\Debug\net8.0\refint\reservatorioAgua.dll
+C:\Users\Alunos\Documents\Edgar\Reservatorio-de-agua\reservatorioAgua\obj\Debug\net8.0\reservatorioAgua.pdb
+C:\Users\Alunos\Documents\Edgar\Reservatorio-de-agua\reservatorioAgua\obj\Debug\net8.0\reservatorioAgua.genruntimeconfig.cache
+C:\Users\Alunos\Documents\Edgar\Reservatorio-de-agua\reservatorioAgua\obj\Debug\net8.0\ref\reservatorioAgua.dll
